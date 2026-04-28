@@ -1,0 +1,7 @@
+gradio
+pandas
+numpy
+pdfplumber
+python-docx
+scikit-learn
+plotly
